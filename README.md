@@ -10,7 +10,7 @@
 
 视频教程⬆️ 尽在YouTube  discord群链接🔗 ⬆️⬆️
 
----
+----
 
 推荐使用 -> 
 v2版 [现货做多网格](https://github.com/hengxuZ/spot-trend-grid)
